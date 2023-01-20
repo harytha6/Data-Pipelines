@@ -1,0 +1,9 @@
+pip install pandas
+pip install numpy
+pip install seaborn
+pip install matplotlib
+pip install scipy
+pip install openpyxl
+pip install datetime
+pip install scikit-learn
+pip install sklearn (only legacy referred)
