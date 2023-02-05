@@ -9,7 +9,10 @@ port : 5432 / blank
 username : postgres  
 password : root  
 
-#### MS-SQL  
-Server : sqltrial  
+#### MS-SQL   
+Server name : sqltrial  
 Authentication : SQL Authentication (Login and Pwd)  
 (The other common used - Windows Authentication - automatically allows when user is DESKTOP/V....)  
+Login and Pwd : root
+
+Server=localhost\SQLEXPRESS01;Database=master;Trusted_Connection=True;
